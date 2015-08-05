@@ -1,0 +1,27 @@
+{
+  "name": "date-to-words",
+  "version": "1.0.0",
+  "description": "Converts date to its spoken representation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "converter",
+    "date",
+    "en",
+    "english",
+    "string",
+    "stringify",
+    "word"
+  ],
+  "author": "Ivan Akulov <gxoptg@gmail.com> (http://ivanakulov.name)",
+  "license": "MIT",
+  "devDependencies": {
+    "expect": "^1.8.0"
+  }
+}
