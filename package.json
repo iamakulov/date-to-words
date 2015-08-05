@@ -1,6 +1,6 @@
 {
   "name": "date-to-words",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts date to its spoken representation",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,9 @@
   ],
   "author": "Ivan Akulov <gxoptg@gmail.com> (http://ivanakulov.name)",
   "license": "MIT",
+  "dependencies": {
+    "number-to-words": "^1.1.0"
+  },
   "devDependencies": {
     "expect": "^1.8.0"
   }
