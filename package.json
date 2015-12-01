@@ -19,7 +19,7 @@
     "stringify",
     "word"
   ],
-  "author": "Ivan Akulov <gxoptg@gmail.com> (http://ivanakulov.name)",
+  "author": "Ivan Akulov <me@iamakulov.com> (http://iamakulov.com)",
   "license": "MIT",
   "dependencies": {
     "number-to-words": "^1.1.0"
